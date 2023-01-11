@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimonFranden
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently learning .net
 
 - 📫 Reach me at simon.franden@hotmail.com
 
